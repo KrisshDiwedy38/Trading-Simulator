@@ -1,4 +1,4 @@
-<!-- 
+
 
 Project: Quantitative Trading Simulator with Statistical Arbitrage
 
@@ -47,4 +47,3 @@ Deliverables
    Deployment (Optional):
       Create a web interface (using Flask/Django or Streamlit) to showcase the strategy in action.  
       
--->
