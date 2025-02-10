@@ -43,7 +43,5 @@ Deliverables
    Code Repository:
       Host the project on GitHub, showcasing clean, well-commented code.
       Include a detailed README file with setup instructions and explanations.
-   
-   Deployment (Optional):
-      Create a web interface (using Flask/Django or Streamlit) to showcase the strategy in action.  
+    
       
