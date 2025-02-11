@@ -34,14 +34,5 @@ Key Features
    Clean, Modular Codebase:
       Develop a well-documented, modular system that others can easily understand and extend.
       Use Python with libraries like NumPy, Pandas, Matplotlib, Scikit-learn, and PyTorch/TensorFlow.
-
-Deliverables
-   Report or Presentation:
-      Document the methodology, findings, and performance analysis.
-      Include visualizations of trading signals, backtest results, and portfolio performance.
-
-   Code Repository:
-      Host the project on GitHub, showcasing clean, well-commented code.
-      Include a detailed README file with setup instructions and explanations.
     
       
