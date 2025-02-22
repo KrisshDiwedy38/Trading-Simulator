@@ -12,7 +12,7 @@ Key Features
       Conduct exploratory data analysis (EDA) to visualize correlations, price trends, and statistical anomalies.
 
    Forecasting Approach:
-
+      Using the ARIMA model for time series forcasting.
 
    Performance Metrics:
       Track performance with metrics like Sharpe ratio, maximum drawdown, and annualized returns.
@@ -24,3 +24,4 @@ Key Features
 
    Future plan:
       Using Sentiment analysis to quantify relevent and trusted new articles along with competitors stocks to predict stocks with greater accuracy.
+      Implementing Deep learning model to improve the accuracy to complete with the industry models
