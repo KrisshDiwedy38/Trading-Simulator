@@ -1,3 +1,4 @@
+# A Python script to create a un stationary stock-like data to use when the API requests run out
 import json
 import random
 import datetime
