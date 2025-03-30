@@ -1,7 +1,7 @@
 Project: Quantitative Trading Simulator 
 
 Overview
-   Develop a quantitative trading simulator that uses statistical arbitrage to identify trading opportunities in a simulated or real-world financial dataset. This project will showcase your expertise in programming, math, and finance, and your ability to apply these skills to solve real-world problems.
+   Develop a stock prediction ML model that uses statistical arbitrage to identify stock direction of real-world financial dataset. This project will showcases expertise in programming, math, and finance, and ability to apply these skills to solve real-world problems.
 
 Key Features
    Market Data Integration:
@@ -14,14 +14,6 @@ Key Features
    Forecasting Approach:
       Using the ARIMA model for time series forcasting.
 
-   Performance Metrics:
-      Track performance with metrics like Sharpe ratio, maximum drawdown, and annualized returns.
-      Compare your strategy against benchmarks (e.g., S&P 500).
-
-   Clean, Modular Codebase:
-      Develop a well-documented, modular system that others can easily understand and extend.
-      Use Python with libraries like NumPy, Pandas, Matplotlib, Scikit-learn, and PyTorch/TensorFlow.
-
    Future plan:
       Using Sentiment analysis to quantify relevent and trusted new articles along with competitors stocks to predict stocks with greater accuracy.
-      Implementing Deep learning model to improve the accuracy to complete with the industry models
+      Implementing Deep learning model to improve the accuracy to complete with the industry models.
